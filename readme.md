@@ -2,7 +2,8 @@
 ### Hey there..!!! I'm Khaula Farooqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     
 -  Hi, I'm a passionate self-taught Cloud Data Engineer from Australia. My passion for data lies with dreaming up ideas and making them come true with elegant machine learning models and flexible bigdata pipelines. I take great care in models, pipelines and code quality of the things I build.
--  I am also an open-source enthusiast. I learned a lot from the open-source community. 
+-  I am also an open-source enthusiast. I learned a lot from the open-source community.
+-  Technology enthusiast and always willing to learn something new.
 
     
 -> Scroll down to see my Pinned Repositories.
@@ -23,7 +24,4 @@ def khaula_farooqui():
 - [Create Google Cloud Storage Bucket Using UI In Google Cloud Platform](https://www.linkedin.com/pulse/create-google-cloud-storage-bucket-using-ui-platform-/)
 - [Create Google Cloud Storage Bucket Using CLI In Google Cloud Platform](https://www.linkedin.com/pulse/create-google-cloud-storage-bucket-using-cli-platform-/)
 <!-- BLOG-POST-LIST:END -->
-
-
-Note: Please do not spam on the above mentioned profiles.
 
